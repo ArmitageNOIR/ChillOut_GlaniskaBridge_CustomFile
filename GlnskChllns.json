@@ -1,0 +1,796 @@
+{
+    "Objects": [
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 5204.84, 183.05, 9553.37 ],
+            "ypr": [ -25.0, 0.0, 0.0 ],
+			"scale": 0.98
+        },
+        {
+            "name": "Aug",
+            "pos": [ 5204.83, 183.25, 9553.80 ],
+            "ypr": [ -25.0, 0.0, 100.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "FangeKnife",
+            "pos": [ 5204.59, 182.95, 9553.69 ],
+            "ypr": [ -28.0, 0.0, 7.0 ],
+			"scale": 3
+        },
+        {
+            "name": "Sword",
+            "pos": [ 5204.44, 182.84, 9553.61 ],
+            "ypr": [ -25.0, 0.0, 7.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "M4_Suppressor",
+            "pos": [ 5204.80, 183.52, 9553.20 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "ACOGOptic",
+            "pos": [ 5204.65, 183.55, 9553.20 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "UniversalLight",
+            "pos": [ 5204.70, 183.53, 9553.30 ],
+            "ypr": [ 0.0, 0.0, 90.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Battery9V",
+            "pos": [ 5204.70, 183.70, 9553.30 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_STANAG_60Rnd",
+            "pos": [ 5204.75, 183.63, 9553.10 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_STANAG_60Rnd",
+            "pos": [ 5204.65, 183.63, 9553.10 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_STANAG_60Rnd",
+            "pos": [ 5204.75, 183.63, 9553.0 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_STANAG_60Rnd",
+            "pos": [ 5204.65, 183.63, 9553.0 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Ammo_556x45",
+            "pos": [ 5204.60, 183.465, 9553.40 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Ammo_556x45",
+            "pos": [ 5204.55, 183.465, 9553.40 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Ammo_556x45",
+            "pos": [ 5204.60, 183.48, 9553.40 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 4
+        },
+        {
+            "name": "Lockpick",
+            "pos": [ 5204.65, 183.465, 9553.50 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "GPSReceiver",
+            "pos": [ 5204.70, 183.52, 9553.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Battery9V",
+            "pos": [ 5204.70, 183.62, 9553.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Rangefinder",
+            "pos": [ 5204.70, 183.50, 9553.63 ],
+            "ypr": [ 0.0, 0.0, -90.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Battery9V",
+            "pos": [ 5204.70, 183.54, 9553.63 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Compass",
+            "pos": [ 5204.90, 183.41, 9553.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "BaseRadio",
+            "pos": [ 5205.2, 183, 9552.6 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_misc_gunrack",
+            "pos": [ 5205.56, 183.05, 9551.83 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 0.98
+        },
+        {
+            "name": "FAL",
+            "pos": [ 5205.58, 183.23, 9551.40 ],
+            "ypr": [ 155.0, 0.0, 98.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "SVD",
+            "pos": [ 5205.85, 183.23, 9551.52 ],
+            "ypr": [ 155.0, 0.0, 100.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "CZ550",
+            "pos": [ 5206.08, 183.25, 9551.65 ],
+            "ypr": [ 155.0, 0.0, 100.0 ],
+			"scale": 1.3
+        },
+        {
+            "name": "ACOGOptic_6x",
+            "pos": [ 5205.30, 183.47, 9551.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "PSO1Optic",
+            "pos": [ 5205.30, 183.57, 9551.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "HuntingOptic",
+            "pos": [ 5205.30, 183.67, 9551.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Battery9V",
+            "pos": [ 5205.30, 183.57, 9551.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_SVD_10Rnd",
+            "pos": [ 5205.40, 183.47, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "Mag_SVD_10Rnd",
+            "pos": [ 5205.40, 183.51, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "Mag_FAL_20Rnd",
+            "pos": [ 5205.40, 183.55, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_FAL_20Rnd",
+            "pos": [ 5205.40, 183.57, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_CZ550_10Rnd",
+            "pos": [ 5205.40, 183.60, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Mag_CZ550_10Rnd",
+            "pos": [ 5205.40, 183.63, 9551.55 ],
+            "ypr": [ 0.0, 90.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Ammo_762x54",
+            "pos": [ 5205.80, 183.485, 9551.80 ],
+            "ypr": [ 45.0, 0.0, 0.0 ],
+			"scale": 5
+        },
+        {
+            "name": "Ammo_308Win",
+            "pos": [ 5205.80, 183.485, 9551.80 ],
+            "ypr": [ 45.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Fal_FoldingBttstck",
+            "pos": [ 5205.80, 183.48, 9551.95 ],
+            "ypr": [ 45.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "AK_Suppressor",
+            "pos": [ 5205.75, 183.48, 9551.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_sofacorner",
+            "pos": [ 5203.5, 183.3, 9553.4 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_furniture_sofacorner",
+            "pos": [ 5206.7, 183.30, 9551.6 ],
+            "ypr": [ -26.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_furniture_carpet_big",
+            "pos": [ 5205.0, 182.7, 9552.5 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 2.3
+        },
+        {
+            "name": "staticobj_furniture_carpet_big",
+            "pos": [ 5205.0, 182.68, 9552.5 ],
+            "ypr": [ 155.0, 0.0, 180.0 ],
+			"scale": 2.3
+        },
+        {
+            "name": "staticobj_misc_table_market",
+            "pos": [ 5205.20, 183, 9552.6 ],
+            "ypr": [ 245.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_flowers_01",
+            "pos": [ 5205, 183.45, 9553.45 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_flowerpot",
+            "pos": [ 5205, 183.45, 9553.45 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_furniture_flowers_02",
+            "pos": [ 5205.50, 183.45, 9551.85 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_flowerpot",
+            "pos": [ 5205.50, 183.45, 9551.85 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "BarrelHoles_Red",
+            "pos": [ 5205.2, 183.4, 9552.6 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [ 5205.2, 183.6, 9552.6 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.025
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [ 5205.2, 183.6, 9552.6 ],
+            "ypr": [ 180.0, 0.0, 0.0 ],
+			"scale": 0.025
+        },
+        {
+            "name": "staticobj_furniture_washing_machine",
+            "pos": [ 5203.49, 182.66, 9550.7 ],
+            "ypr": [ -116.0, 0.0, 0.0 ],
+			"scale": 0.85
+        },
+        {
+            "name": "UKAssVest_Black",
+            "pos": [ 5203.39, 183.67, 9550.9 ],
+            "ypr": [ 0.0, 0.0, 90.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "JungleBoots_Black",
+            "pos": [ 5203.30, 183.64, 9550.95 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "HandsCover_Improvised",
+            "pos": [ 5203.40, 183.67, 9550.80 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "RadarCap_Black",
+            "pos": [ 5203.30, 183.65, 9550.80 ],
+            "ypr": [ 0.0, -90.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "DesignerGlasses",
+            "pos": [ 5203.38, 183.68, 9550.87 ],
+            "ypr": [ 0.0, -90.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "LegsCover_Improvised",
+            "pos": [ 5203.42, 183.65, 9550.9 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "RopeBelt",
+            "pos": [ 5203.44, 183.65, 9550.9 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Canteen",
+            "pos": [ 5203.45, 183.68, 9550.93 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.25
+        },
+        {
+            "name": "FaceCover_Improvised",
+            "pos": [ 5203.42, 183.66, 9550.9 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "BDUJacket",
+            "pos": [ 5203.7, 183.64, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.25
+        },
+        {
+            "name": "HighCapacityVest_Black",
+            "pos": [ 5203.7, 183.70, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.25
+        },
+        {
+            "name": "BDUPants",
+            "pos": [ 5203.7, 183.65, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.30
+        },
+        {
+            "name": "MilitaryBelt",
+            "pos": [ 5203.6, 183.66, 9550.6 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Canteen",
+            "pos": [ 5203.6, 183.69, 9550.6 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.25
+        },
+        {
+            "name": "NylonKnifeSheath",
+            "pos": [ 5203.55, 183.67, 9550.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "PlateCarrierHolster_Camo",
+            "pos": [ 5203.65, 183.67, 9550.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "JungleBoots_Green",
+            "pos": [ 5203.6, 183.65, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.30
+        },
+        {
+            "name": "AviatorGlasses",
+            "pos": [ 5203.6, 183.75, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "CowboyHat_black",
+            "pos": [ 5203.7, 183.68, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.30
+        },
+        {
+            "name": "BalaclavaMask_Green",
+            "pos": [ 5203.7, 183.69, 9550.7 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.30
+        },
+        {
+            "name": "staticobj_furniture_kitchenstove_elec",
+            "pos": [ 5203.98, 182.71, 9549.60 ],
+            "ypr": [ -116.0, 0.0, 0.0 ],
+			"scale": 1.1
+        },
+        {
+            "name": "FryingPan",
+            "pos": [ 5204.05, 183.645, 9549.77 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [ 5204.18, 183.64, 9549.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [ 5204.18, 183.64, 9549.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [ 5204.18, 183.64, 9549.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [ 5204.18, 183.64, 9549.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [ 5204.18, 183.64, 9549.55 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "Pot",
+            "pos": [ 5203.92, 183.645, 9549.45 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_furniture_kitchen_desk_a",
+            "pos": [ 5203.8, 183.7, 9550.2 ],
+            "ypr": [ -26.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "TetracyclineAntibiotics",
+            "pos": [ 5203.95, 184.15, 9549.65 ],
+            "ypr": [ -50.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [ 5203.95, 184.37, 9549.65 ],
+            "ypr": [ -45.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [ 5203.95, 184.56, 9549.60 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [ 5203.95, 184.56, 9549.65 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [ 5203.95, 184.56, 9549.70 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [ 5203.695, 183.4, 9550.11 ],
+            "ypr": [ -90.0, 0.0, 0.0 ],
+			"scale": 0.25
+        },
+        {
+            "name": "Vodka",
+            "pos": [ 5203.65, 183.7, 9550.15 ],
+            "ypr": [ 0.0, -55.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "BrakeFluid",
+            "pos": [ 5203.50, 184.95, 9550.60 ],
+            "ypr": [ 30.0, 0.0, 0.0 ],
+			"scale": 3
+        },
+        {
+            "name": "EngineOil",
+            "pos": [ 5203.50, 184.75, 9550.80 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 2
+        },
+        {
+            "name": "staticobj_furniture_vending_machine",
+            "pos": [ 5205.4, 183.7, 9549.1 ],
+            "ypr": [ 154.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [ 5205.4, 183.7, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [ 5205.4, 183.8, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [ 5205.4, 183.9, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Fronta",
+            "pos": [ 5205.4, 184, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Fronta",
+            "pos": [ 5205.4, 184.1, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Fronta",
+            "pos": [ 5205.4, 184.2, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [ 5205.4, 184.3, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [ 5205.4, 184.4, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [ 5205.4, 184.5, 9549.5 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "PetrolLighter",
+            "pos": [ 5204.85, 183.50, 9552.95 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Paper",
+            "pos": [ 5204.9, 183.46, 9552.95 ],
+            "ypr": [ 90.0, 90.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [ 5204.9, 183.53, 9553 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.1, 183.50, 9552.9 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.1, 183.50, 9552.95 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.1, 183.49, 9553 ],
+            "ypr": [ 90.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.05, 183.54, 9552.9 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.1, 183.54, 9552.95 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Firewood",
+            "pos": [ 5205.15, 183.54, 9552.93 ],
+            "ypr": [ 0.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_misc_barbedwire",
+            "pos": [ 5203.2, 181, 9556.5 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_misc_barbedwire",
+            "pos": [ 5202.5, 181, 9551 ],
+            "ypr": [ 65.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_misc_barbedwire",
+            "pos": [ 5206.7, 181, 9548.5 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 1.5
+        },
+        {
+            "name": "staticobj_wall_indcnc3_2_4",
+            "pos": [ 5203.45, 181.7, 9555.7 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5203.35, 184, 9555.68 ],
+            "ypr": [ -25.0, 0.0, 0.0 ],
+			"scale": 0.80
+        },
+        {
+            "name": "staticobj_wall_indcnc3_2_4",
+            "pos": [ 5202.4, 181.7, 9551.9 ],
+            "ypr": [ 65.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5202.95, 184, 9550.9 ],
+            "ypr": [ 65.0, 0.0, 0.0 ],
+			"scale": 0.85
+        },
+        {
+            "name": "staticobj_wall_indcnc3_2_4",
+            "pos": [ 5203.1, 181.7, 9550.5 ],
+            "ypr": [ 245.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_platform2_stairs_20",
+            "pos": [ 5207.70, 181.1, 9554.85 ],
+            "ypr": [ -26.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_platform2_stairs_30_wallr",
+            "pos": [ 5205.45, 181.5, 9556.75 ],
+            "ypr": [ 66.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_platform2_stairs_30_wallr",
+            "pos": [ 5205.45, 180.7, 9556.75 ],
+            "ypr": [ 66.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_platform2_stairs_30_wallr",
+            "pos": [ 5207.90, 181.5, 9555.80 ],
+            "ypr": [ -26.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_platform2_stairs_30_wallr",
+            "pos": [ 5207.90, 180.7, 9555.80 ],
+            "ypr": [ -26.0, 0.0, 0.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "Land_Wall_Gate_Ind3",
+            "pos": [ 5206.5, 184.05, 9556.25 ],
+            "ypr": [ -116.0, 0.0, 90.0 ],
+			"scale": 0.50
+        },
+        {
+            "name": "staticobj_wall_indcnc3_2_4",
+            "pos": [ 5207.8, 181.7, 9553.1 ],
+            "ypr": [ 65.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5208.05, 184, 9552.65 ],
+            "ypr": [ 65.0, 0.0, 0.0 ],
+			"scale": 0.70
+        },
+        {
+            "name": "staticobj_wall_indcnc3_2_4",
+            "pos": [ 5206.5, 181.7, 9549.1 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "staticobj_wall_indfnc_9",
+            "pos": [ 5205.60, 184, 9548.6 ],
+            "ypr": [ 155.0, 0.0, 0.0 ],
+			"scale": 0.80
+        },
+        {
+            "name": "Land_Mil_CamoNet_Roof_east",
+            "pos": [ 5205.1, 185, 9552.5 ],
+            "ypr": [ 66.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [ 5205.3, 177.5, 9565.6 ],
+            "ypr": [ -130.0, 0.0, 0.0 ],
+			"scale": 2.2
+        },
+        {
+            "name": "Land_Misc_Greenhouse",
+            "pos": [ 5206.3, 176.3, 9564.6 ],
+            "ypr": [ -130.0, 0.0, 0.0 ],
+			"scale": 1
+        },
+        {
+            "name": "Land_Mil_CamoNet_Roof_east",
+            "pos": [ 5205.1, 184.3, 9552.5 ],
+            "ypr": [ 66.0, 0.0, 0.0 ],
+			"scale": 0.75
+        }
+    ]
+}
